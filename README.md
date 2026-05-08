@@ -3,12 +3,6 @@
 ## Project Overview
 This Power BI dashboard provides a comprehensive look into global sales operations. By transforming raw transactional data into interactive visualizations, the report identifies key revenue drivers, regional performance, and seasonal sales trends.
 
-## 🔗 Project Assets
-* **Power BI File:** [Download Dashboard](./Dashboard/First_PowerBI_Dashboard.pbix)
-* **Raw Data:** [Orders Dataset](./Data/orders.csv) | [Customers Dataset](./Data/customers.csv)
-
----
-
 
 ## 📊 Interactive Dashboard Preview
 
@@ -16,18 +10,21 @@ This dashboard is fully dynamic. Below are three different views demonstrating h
 
 ### 1. Global Overview (Default)
 *The aggregated view of all sales data across all regions for 2026.*
-![Global View](./Screenshots/Main_Dashboard.jpg)
+<img width="1431" height="690" alt="Global Overview (Default)" src="https://github.com/user-attachments/assets/8ba042e5-23df-42be-9a46-1094bd308e1c" />
+
 
 ---
 
 ### 2. Regional Comparison: Germany vs. USA
 *Selecting a country from the slicer instantly recalculates the KPI cards, product rankings, and category distributions.*
 
-| **Germany View** | **United States View** |
-| :--- | :--- |
-| ![Germany View](./Screenshots/Germany_Dashboard.jpg) | ![US View](./Screenshots/US_Dashboard.jpg) |
+####  Germany View : 
+> <img width="1417" height="677" alt="Regional Insights (Germany)" src="https://github.com/user-attachments/assets/f8329366-fb81-4279-bffc-3018fc883cf0" />
 
----
+
+#### United States View : 
+> <img width="1410" height="737" alt="Regional Insights (US)" src="https://github.com/user-attachments/assets/57f01889-28c3-4cbc-bfed-d690b5d298f0" />
+
  
 
 
