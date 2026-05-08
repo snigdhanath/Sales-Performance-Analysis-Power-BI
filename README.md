@@ -45,7 +45,7 @@ This dashboard is fully dynamic. Below are three different views demonstrating h
 * **Data Visualization:** Built a variety of charts (Donut, Bar, Line, and KPI Cards) to present multi-dimensional data clearly.
 
 ## 📁 Repository Structure
-* **/Data**: Contains the raw CSV/Excel files used for the analysis.
+* **/Data**: Contains the raw CSV files used for the analysis.
 * **/Dashboard**: Contains the `.pbix` Power BI project file.
 * **/Screenshots**: High-resolution images of the dashboard for quick viewing.
 * `README.md`: Project documentation (this file).
