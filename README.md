@@ -9,8 +9,27 @@ This Power BI dashboard provides a comprehensive look into global sales operatio
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](./Screenshots/Main_Dashboard.png)
+## 📊 Interactive Dashboard Preview
+
+This dashboard is fully dynamic. Below are three different views demonstrating how the visual elements cross-filter based on regional selection.
+
+### 1. Global Overview (No Filters)
+*The default view showing total aggregated performance across all regions.*
+<img width="1431" height="690" alt="Global Overview (Default)" src="https://github.com/user-attachments/assets/bee54eba-ffaa-45fd-9233-c757a48e6464" />
+
+
+---
+
+### 2. Regional Drill-Down: Germany vs. United States
+*Comparing these two views highlights the dashboard's ability to recalculate KPIs, product rankings, and category distributions instantly.*
+
+| **Germany View** | **United States View** |
+| :--- | :--- |
+<img width="1417" height="677" alt="Regional Insights (Germany)" src="https://github.com/user-attachments/assets/520c6dd6-f2ca-45ea-9db5-18e83f1729e9" />
+ |<img width="1410" height="737" alt="Regional Insights (US)" src="https://github.com/user-attachments/assets/a2177614-4331-454a-b30f-9eec4c914caf" />
+  |
+
+> **Key Observation:** Notice that while **Laptops** are the top category globally, the **USA** market shows a much higher concentration in **Smartphones** (26.15%) compared to the global average, whereas **Germany** shows a very specific focus on high-end smartphone models.
 
 
 ## 🚀 Key Features & Insights
